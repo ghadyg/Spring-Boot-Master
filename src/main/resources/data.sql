@@ -1,0 +1,10 @@
+insert into Person (name, gender,age, email) values ('Waldemar Drain', 'MALE',22 ,'wdrain0@vistaprint.com');
+insert into Person (name, gender,age, email) values ('Shae Vickress', 'FEMALE', 44,'svickress1@who.int');
+insert into Person (name, gender,age, email) values ('Siward Peirson', 'MALE', 33,'speirson2@w3.org');
+insert into Person (name, gender,age, email) values ('Evangeline Quick', 'FEMALE',25, 'equick3@globo.com');
+insert into Person (name, gender,age, email) values ('Benton Ipsgrave', 'MALE', 42,'bipsgrave4@prnewswire.com');
+insert into Person (name, gender,age, email) values ('Ame Szachniewicz', 'FEMALE', 43,'aszachniewicz5@sourceforge.net');
+insert into Person (name, gender,age, email) values ('Didi Rizzetti', 'MALE',23,'drizzetti6@1und1.de');
+insert into Person (name, gender,age, email) values ('Wendie Element', 'FEMALE', 62,'welement7@tumblr.com');
+insert into Person (name, gender,age, email) values ('Nanice Stert', 'FEMALE',28 ,'nstert8@admin.ch');
+insert into Person (name, gender,age, email) values ( 'Clara Franscioni', 'FEMALE', 37,'cfranscioni9@cbsnews.com');
